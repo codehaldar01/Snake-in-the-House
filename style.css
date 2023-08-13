@@ -37,18 +37,18 @@
     font-family: 'Josefin Sans', sans-serif;
 }
 .head{
-    background: linear-gradient(rgb(255, 98, 0),yellow);
+    background: linear-gradient(rgb(240, 124, 124), rgb(142, 142, 65));
     border-radius: 5px;
     border: 2px solid black;
     transform: 1.03;
 }
 .snake{
-    background: linear-gradient(gray,rgb(68, 2, 13));
+    background: rgb(9, 65, 14);
     border: 0.25vmin solid wheat;
     border-radius: 13px;
 }
 .food{
-    background: linear-gradient(rgb(255, 30, 0),rgb(146, 122, 67));
+    background: linear-gradient(red, purple);
     border: 0.25vmin solid rgb(109, 79, 24);
     border-radius: 16px;
 }
